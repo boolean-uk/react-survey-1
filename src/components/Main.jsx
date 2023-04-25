@@ -103,8 +103,6 @@ function Main() {
             <label htmlFor="color-four">4</label>
           </li>
         </ul>
-
-       
        
       </div>
 
